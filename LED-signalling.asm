@@ -1,9 +1,5 @@
-; a2-signalling.asm
-; CSC 230: Fall 2022
 ;
-; Student name:
-; Student ID:
-; Date of completed work:
+; Student author: Lee Napthine
 ;
 ; *******************************
 ; Code provided for Assignment #2

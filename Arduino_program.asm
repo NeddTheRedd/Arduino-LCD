@@ -1,12 +1,6 @@
 ;
-; a3part-D.asm
 ;
-; Part D of assignment #3
-;
-;
-; Student name:
-; Student ID:
-; Date of completed work:
+; Student author: Lee Napthine
 ;
 ; **********************************
 ; Code provided for Assignment #3

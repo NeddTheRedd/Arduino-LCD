@@ -1,5 +1,5 @@
 # Arduino-LCD
-Assembly code programs for operating an arduino.
+Assembly language programs for controlling an Arduino.
 
 ### Index
 * [LCD Screen Assembly Program](#LCD)

@@ -6,6 +6,7 @@ Assembly language programs for controlling an Arduino.
 * [LED Lights Assembly Program](#LED)
 
 ---
+
 ### LCD Screen Assembly Program
 <a name="LCD"></a>
 
@@ -18,6 +19,7 @@ Below is a demonstration showcasing the capabilities of the final product:
 
 
 ---
+
 ### LED Lights Assembly Program
 <a name="LED"></a>
 
